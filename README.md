@@ -2,7 +2,7 @@
 
 Test de automatización, donde se realizaron pruebas A y B en Cypress.
 
-##Pasos
+## Pasos
 1. Instalar NodeJs. https://nodejs.org/es/
 
 2. Crear carpeta de trabajo, abrir una terminal y ubicarse en la carpeta, ejecutando.

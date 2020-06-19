@@ -10,7 +10,7 @@ Test de automatización, donde se realizaron pruebas A y B en Cypress.
   npm install Cypress --save-dev
 ```
 3. Descargar el archivo TestCotalker.js y guardarlo en la carpeta cypress/Integration
-4. Crear Archivo User.json con su correo y contraseña
+4. Crear Archivo User.json con su correo y contraseña en la carpeta cypress/fixtures
 ```ruby
   {
   "email":"*******",
